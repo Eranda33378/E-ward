@@ -239,8 +239,8 @@ Frontend runs on: `http://localhost:3000`
 
 ## 👨‍💻 Author
 
-**mayantha22**
-- GitHub: [@mayantha22](https://github.com/mayantha22)
+**eranda33378**
+
 
 ---
 
